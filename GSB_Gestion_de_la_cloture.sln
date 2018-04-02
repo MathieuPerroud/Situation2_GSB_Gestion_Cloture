@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Metier", "Classes_Metier\Classes_Metier.csproj", "{32A33D2E-7F1F-4C33-914B-322E4033B0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Metier.Tests", "Classes_Metier.Tests\Classes_Metier.Tests.csproj", "{392E7295-4938-4D56-AC5E-60305115A684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSB_Cloture_App", "GSB_Cloture_App\GSB_Cloture_App.csproj", "{B067B4E4-0478-4DF2-9E9F-745C50FF521C}"
+EndProject
+Project("{7CF6DF6D-3B04-46F8-A40B-537D21BCA0B4}") = "Documentation_GSB_frais", "Documentation_GSB_frais\Documentation_GSB_frais.shfbproj", "{0697B11F-3958-4446-BD6A-02D351C5654C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Campagne de validation des fiches de frais", "Campagne de validation des fiches de frais\Campagne de validation des fiches de frais.csproj", "{2EB8D458-C1C3-4E04-A183-C9D6F0EDFAD8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installation_Service_Comptable", "Installation_Service_Comptable\Installation_Service_Comptable.vdproj", "{0D65E4BE-FACA-4DBF-A056-09D81DC028AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A33D2E-7F1F-4C33-914B-322E4033B0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A33D2E-7F1F-4C33-914B-322E4033B0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A33D2E-7F1F-4C33-914B-322E4033B0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A33D2E-7F1F-4C33-914B-322E4033B0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392E7295-4938-4D56-AC5E-60305115A684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392E7295-4938-4D56-AC5E-60305115A684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392E7295-4938-4D56-AC5E-60305115A684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392E7295-4938-4D56-AC5E-60305115A684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B067B4E4-0478-4DF2-9E9F-745C50FF521C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B067B4E4-0478-4DF2-9E9F-745C50FF521C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B067B4E4-0478-4DF2-9E9F-745C50FF521C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B067B4E4-0478-4DF2-9E9F-745C50FF521C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0697B11F-3958-4446-BD6A-02D351C5654C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0697B11F-3958-4446-BD6A-02D351C5654C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0697B11F-3958-4446-BD6A-02D351C5654C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0697B11F-3958-4446-BD6A-02D351C5654C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB8D458-C1C3-4E04-A183-C9D6F0EDFAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB8D458-C1C3-4E04-A183-C9D6F0EDFAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB8D458-C1C3-4E04-A183-C9D6F0EDFAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB8D458-C1C3-4E04-A183-C9D6F0EDFAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D65E4BE-FACA-4DBF-A056-09D81DC028AD}.Debug|Any CPU.ActiveCfg = Debug
+		{0D65E4BE-FACA-4DBF-A056-09D81DC028AD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05BB6ED3-AC8D-402C-98C7-FFF515614A5B}
+	EndGlobalSection
+EndGlobal
