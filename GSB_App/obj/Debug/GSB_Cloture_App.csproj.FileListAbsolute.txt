@@ -1,0 +1,12 @@
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\GSB_App\bin\Debug\GSB_App.exe.config
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\GSB_App\bin\Debug\GSB_App.exe
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\GSB_App\bin\Debug\GSB_App.pdb
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\GSB_App\bin\Debug\Classe_Metier.dll
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\GSB_App\bin\Debug\MySql.Data.dll
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\GSB_App\bin\Debug\Classe_Metier.pdb
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\GSB_App\bin\Debug\Classe_Metier.xml
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\GSB_App\bin\Debug\MySql.Data.xml
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\GSB_App\obj\Debug\GSB_Cloture_App.csprojResolveAssemblyReference.cache
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\GSB_App\obj\Debug\GSB_Cloture_App.csproj.CoreCompileInputs.cache
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\GSB_App\obj\Debug\GSB_App.exe
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\GSB_App\obj\Debug\GSB_App.pdb

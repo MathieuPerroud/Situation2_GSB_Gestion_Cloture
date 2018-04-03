@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2EB8D458-C1C3-4E04-A183-C9D6F0EDFAD8}</ProjectGuid>
+    <ProjectGuid>{24491809-B1DF-4079-AA0D-426737DA8C9A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Campagne_de_validation_des_fiches_de_frais</RootNamespace>
     <AssemblyName>Campagne de validation des fiches de frais</AssemblyName>
@@ -64,18 +64,15 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Classe_Metier\Classe_Metier.csproj">
+      <Project>{eebd39f8-14eb-4eac-9f7c-8e1cd339e039}</Project>
+      <Name>Classe_Metier</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
     <EmbeddedResource Include="ProjectInstaller.resx">
       <DependentUpon>ProjectInstaller.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Service_de_Validation.resx">
-      <DependentUpon>Service_de_Validation.cs</DependentUpon>
-    </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Classes_Metier\Classes_Metier.csproj">
-      <Project>{32A33D2E-7F1F-4C33-914B-322E4033B0AF}</Project>
-      <Name>Classes_Metier</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

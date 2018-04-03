@@ -1,6 +1,6 @@
 ﻿namespace Campagne_de_validation_des_fiches_de_frais
 {
-    partial class Service_de_ValidationDD
+    public partial class Service_de_ValidationDD
     {
         /// <summary> 
         /// Variable nécessaire au concepteur.

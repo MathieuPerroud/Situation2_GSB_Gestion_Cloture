@@ -1,0 +1,8 @@
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_Metier\bin\Debug\Classe_Metier.dll
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_Metier\bin\Debug\Classe_Metier.pdb
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_Metier\bin\Debug\MySql.Data.dll
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_Metier\bin\Debug\MySql.Data.xml
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_Metier\obj\Debug\Classe_Metier.csproj.CoreCompileInputs.cache
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_Metier\obj\Debug\Classe_Metier.dll
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_Metier\obj\Debug\Classe_Metier.pdb
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_Metier\bin\Debug\Classe_Metier.xml

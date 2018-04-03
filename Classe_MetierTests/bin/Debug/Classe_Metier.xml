@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Classe_Metier</name>
+    </assembly>
+    <members>
+        <member name="M:Classe_Metier.DataAccess.ConnexionDB">
+            Résumé :
+                <summary>
+                    Méthode utilisée pour connecter son utilisateur à la base de donnée GSB_frais.
+                </summary>
+                <returns>
+                Un System.String contenant un message relatif à la connexion ou non à la base de donnée.
+                </returns>
+        </member>
+        <member name="M:Classe_Metier.DataAccess.QuerySelect(System.String)">
+             Résumé :
+                 <summary>
+                     Méthode utilisée pour executer des requêtes de type SELECT.
+                 </summary>
+            
+             Paramètres :
+                 <param name="theQuery">
+                     Un System.String qui contient la requête SELECT à executer.
+                 </param>
+            
+             Retourne :
+                 <returns>
+                     Un MySql.Data.MySqlClient.MySqlDataReader contenant les lignes de la requête sous forme
+                     d'un tableau associatif.
+                 </returns>
+                 
+        </member>
+        <member name="M:Classe_Metier.DataAccess.QueryAdministrative(System.String)">
+             Résumé :
+                 <summary>
+                     Méthode utilisée pour executer des requêtes de type INSERT INTO, UPDATE et DELETE FROM.
+                 </summary>
+            
+             Paramètres :
+                 <param name="theQuery">
+                     Un System.String qui contient la requête INSERT INTO, UPDATE ou DELETE FROM à executer.
+                 </param>
+            
+             Retourne :
+                 <returns>
+                     Un System.Int égal à 1 si la requête a bien été executée. 
+                 </returns>
+                 
+        </member>
+        <member name="M:Classe_Metier.DataAccess.ChangerEtat(System.String,System.String)">
+             Résumé :
+                 <summary>
+                     Change l'état de toutes les fiches de frais du mois précédent à un autre état.
+                 </summary>
+            
+             Paramètres :
+                 <param name="etatAChanger">
+                     Un System.String qui contient l'état des fiches de frais à changer.
+                 </param>
+                 <param name="nouvelEtat">
+                     Un System.String qui contient le nouvel état de ces fiches de frais.
+                 </param>   
+        </member>
+        <member name="M:Classes_Metier.DateManagement.GetMoisPrecedent">
+                <summary>
+                    Méthode qui retourne le mois précédent.
+                </summary>
+                <returns>
+                    Un System.String des deux chiffres du mois précédent. 
+                </returns>
+        </member>
+        <member name="M:Classes_Metier.DateManagement.GetMoisPrecedent(System.DateTime)">
+                <summary>
+                    Méthode qui retourne le mois précédent.
+                </summary>
+                <param name="date">
+                    Un System.DateTime qui contient la date à partir de laquelle le mois précédent va être récupéré.
+                </param>
+                <returns>
+                    Un System.String des deux chiffres du mois précédent. 
+                </returns>
+        </member>
+        <member name="M:Classes_Metier.DateManagement.GetMoisPrecedent(System.Int32)">
+                <summary>
+                    Méthode qui retourne le mois précédent.
+                </summary>
+                <param name="mois">
+                    Un System.Int qui contient le mois à partir duquel le mois précédent va être récupéré.
+                </param>
+                <returns>
+                    Un System.String des deux chiffres du mois précédent. 
+                </returns>
+        </member>
+        <member name="M:Classes_Metier.DateManagement.GetMoisSuivant">
+                <summary>
+                    Méthode qui retourne le mois suivant.
+                </summary>
+                <returns>
+                    Un System.String des deux chiffres du mois suivant. 
+                </returns>
+        </member>
+        <member name="M:Classes_Metier.DateManagement.GetMoisSuivant(System.DateTime)">
+                <summary>
+                    Méthode qui retourne le mois suivant.
+                </summary>
+                <param name="date">
+                    Un System.DateTime qui contient la date à partir de laquelle le mois suivant va être récupéré.
+                </param>
+                <returns>
+                    Un System.String des deux chiffres du mois suivant. 
+                </returns>
+        </member>
+        <member name="M:Classes_Metier.DateManagement.GetMoisSuivant(System.Int32)">
+                <summary>
+                    Méthode qui retourne le mois suivant.
+                </summary>
+                <param name="mois">
+                    Un System.Int qui contient le mois à partir duquel le mois suivant va être récupéré.
+                </param>
+                <returns>
+                    Un System.String des deux chiffres du mois suivant. 
+                </returns>
+        </member>
+        <member name="M:Classes_Metier.DateManagement.entre(System.Int32,System.Int32)">
+                <summary>
+                    Méthode qui vérifie si la date actuelle se situe entre deux jours.
+                </summary>
+                <param name="jour1">
+                    Un System.Int qui contient le premier jour de l'entre deux.
+                </param>
+                <param name="jour2">
+                    Un System.Int qui contient le dernier jour de l'entre deux.
+                </param>
+                <returns>
+                    Un System.Boolean true si la date est entre ces deux jours. 
+                </returns>
+        </member>
+        <member name="M:Classes_Metier.DateManagement.entre(System.Int32,System.Int32,System.DateTime)">
+                <summary>
+                    Méthode qui vérifie si une date se situe entre deux jours.
+                </summary>
+                <param name="jour1">
+                    Un System.Int qui contient le premier jour de l'entre deux.
+                </param>
+                <param name="jour2">
+                    Un System.Int qui contient le dernier jour de l'entre deux.
+                </param>
+                <param name="date">
+                    Un System.DateTime qui contient la date à vérifier.
+                </param>
+                <returns>
+                    Un System.Boolean true si la date est entre ces deux jours. 
+                </returns>
+        </member>
+        <member name="M:Classes_Metier.DateManagement.entre(System.Int32,System.Int32,System.Int32)">
+                <summary>
+                    Méthode qui vérifie si un jour testé se situe entre deux jours.
+                </summary>
+                <param name="jour1">
+                    Un System.Int qui contient le premier jour de l'entre deux.
+                </param>
+                <param name="jour2">
+                    Un System.Int qui contient le dernier jour de l'entre deux.
+                </param>
+                <param name="jourTest">
+                    Un System.Int qui contient le jour à vérifier.
+                </param>
+                <returns>
+                    Un System.Boolean true si le jour testé est entre ces deux jours. 
+                </returns>
+        </member>
+    </members>
+</doc>

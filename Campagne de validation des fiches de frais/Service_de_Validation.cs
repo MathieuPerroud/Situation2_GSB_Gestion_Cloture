@@ -1,4 +1,4 @@
-﻿using Classes_Metier;
+﻿using Classe_Metier;
 using System;
 using System.Collections;
 using System.ComponentModel;
@@ -9,7 +9,7 @@ using System.Timers;
 
 namespace Campagne_de_validation_des_fiches_de_frais
 {
-    public class Service_de_Validation : System.ServiceProcess.ServiceBase
+    public class Service_de_Validation : ServiceBase
     {
         /// <summary> 
         /// Required designer variable.
@@ -91,7 +91,7 @@ namespace Campagne_de_validation_des_fiches_de_frais
                     EventLog.WriteEntry("Nous sommes le : " + DateTime.Now.Day + ". Rien ne se passe");
                 }
             }
-            EventLog.WriteEntry("Et la fonction aurait dû s'executer.");
+            EventLog.WriteEntry("Le service s'est bien exécuté.");
         }
 
         protected override void OnStop()

@@ -1,0 +1,13 @@
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_MetierTests\bin\Debug\Classe_MetierTests.dll
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_MetierTests\bin\Debug\Classe_MetierTests.pdb
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_MetierTests\bin\Debug\Classe_Metier.dll
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_MetierTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_MetierTests\bin\Debug\MySql.Data.dll
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_MetierTests\bin\Debug\Classe_Metier.pdb
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_MetierTests\bin\Debug\MySql.Data.xml
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_MetierTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_MetierTests\obj\Debug\Classe_MetierTests.csprojResolveAssemblyReference.cache
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_MetierTests\obj\Debug\Classe_MetierTests.csproj.CoreCompileInputs.cache
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_MetierTests\obj\Debug\Classe_MetierTests.dll
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_MetierTests\obj\Debug\Classe_MetierTests.pdb
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Classe_MetierTests\bin\Debug\Classe_Metier.xml

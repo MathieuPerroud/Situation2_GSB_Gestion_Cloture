@@ -1,0 +1,14 @@
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Campagne de validation des fiches de frais\obj\Debug\Campagne de validation des fiches de frais.csprojResolveAssemblyReference.cache
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Campagne de validation des fiches de frais\obj\Debug\Campagne_de_validation_des_fiches_de_frais.ProjectInstaller.resources
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Campagne de validation des fiches de frais\obj\Debug\Campagne de validation des fiches de frais.csproj.GenerateResource.Cache
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Campagne de validation des fiches de frais\obj\Debug\Campagne de validation des fiches de frais.csproj.CoreCompileInputs.cache
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Campagne de validation des fiches de frais\bin\Debug\Campagne de validation des fiches de frais.exe.config
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Campagne de validation des fiches de frais\bin\Debug\Campagne de validation des fiches de frais.exe
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Campagne de validation des fiches de frais\bin\Debug\Campagne de validation des fiches de frais.pdb
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Campagne de validation des fiches de frais\bin\Debug\Classe_Metier.dll
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Campagne de validation des fiches de frais\bin\Debug\MySql.Data.dll
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Campagne de validation des fiches de frais\bin\Debug\Classe_Metier.pdb
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Campagne de validation des fiches de frais\bin\Debug\Classe_Metier.xml
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Campagne de validation des fiches de frais\bin\Debug\MySql.Data.xml
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Campagne de validation des fiches de frais\obj\Debug\Campagne de validation des fiches de frais.exe
+C:\Users\Mathieu\source\screen\GSB_Gestion_de_la_cloture\Campagne de validation des fiches de frais\obj\Debug\Campagne de validation des fiches de frais.pdb

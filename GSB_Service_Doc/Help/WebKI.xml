@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ChangerEtat method" Url="html/497f3577-87a5-c8ad-432a-20dded4a5b5f.htm" />
+  <HelpKINode Title="Classes_Metier namespace" Url="html/cd222e5d-9a7e-8f90-b333-147541e20877.htm" />
+  <HelpKINode Title="Classes_Metier.DateManagement class" Url="html/dfdf5b67-2200-5f92-3e2d-4b6c33a0eac0.htm" />
+  <HelpKINode Title="Classe_Metier namespace" Url="html/2b646975-0e7d-aa77-f653-5d79c8fa9219.htm" />
+  <HelpKINode Title="Classe_Metier.DataAccess class" Url="html/21c1f652-8c7b-2f50-3a15-72edff250810.htm" />
+  <HelpKINode Title="ConnexionDB method" Url="html/e8bf23f6-d469-6909-bfc9-516066d67686.htm" />
+  <HelpKINode Title="DataAccess class">
+    <HelpKINode Title="DataAccess Class" Url="html/21c1f652-8c7b-2f50-3a15-72edff250810.htm" />
+    <HelpKINode Title="constructor" Url="html/de1be0ce-acd6-c2ce-de74-826a6ab95283.htm" />
+    <HelpKINode Title="methods" Url="html/3fd06321-ac37-9ec5-e382-592a85ae4515.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataAccess.ChangerEtat method" Url="html/497f3577-87a5-c8ad-432a-20dded4a5b5f.htm" />
+  <HelpKINode Title="DataAccess.ConnexionDB method" Url="html/e8bf23f6-d469-6909-bfc9-516066d67686.htm" />
+  <HelpKINode Title="DataAccess.DataAccess constructor" Url="html/de1be0ce-acd6-c2ce-de74-826a6ab95283.htm" />
+  <HelpKINode Title="DataAccess.QueryAdministrative method" Url="html/c8ff4d42-380f-6d68-b807-4681e83d1139.htm" />
+  <HelpKINode Title="DataAccess.QuerySelect method" Url="html/6d14e4c2-9368-fa71-a3ea-8ad033b6c310.htm" />
+  <HelpKINode Title="DateManagement class">
+    <HelpKINode Title="DateManagement Class" Url="html/dfdf5b67-2200-5f92-3e2d-4b6c33a0eac0.htm" />
+    <HelpKINode Title="constructor" Url="html/b61a42ae-c012-11dd-5498-3d416d2466d8.htm" />
+    <HelpKINode Title="methods" Url="html/172e3f1d-c4d2-09bd-17c2-5c3c69bcbae8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DateManagement.DateManagement constructor" Url="html/b61a42ae-c012-11dd-5498-3d416d2466d8.htm" />
+  <HelpKINode Title="DateManagement.entre method" Url="html/c261308b-e643-6d5e-5ca4-25ef138b6097.htm" />
+  <HelpKINode Title="DateManagement.GetMoisPrecedent method" Url="html/b7a148ca-a63a-acab-2063-544ff1666387.htm" />
+  <HelpKINode Title="DateManagement.GetMoisSuivant method" Url="html/452c572b-43a5-a844-aa91-ea1d3a848593.htm" />
+  <HelpKINode Title="entre method" Url="html/c261308b-e643-6d5e-5ca4-25ef138b6097.htm" />
+  <HelpKINode Title="GetMoisPrecedent method" Url="html/b7a148ca-a63a-acab-2063-544ff1666387.htm" />
+  <HelpKINode Title="GetMoisSuivant method" Url="html/452c572b-43a5-a844-aa91-ea1d3a848593.htm" />
+  <HelpKINode Title="QueryAdministrative method" Url="html/c8ff4d42-380f-6d68-b807-4681e83d1139.htm" />
+  <HelpKINode Title="QuerySelect method" Url="html/6d14e4c2-9368-fa71-a3ea-8ad033b6c310.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/2cde75b1-9fa2-4ba5-b40c-3f8c5deb22f1.htm" />
+    <HelpKINode Title="history" Url="html/e693ce70-a8ea-4e65-9720-f29719ab2365.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/287a5575-597d-48c3-ace1-5f56e3b729bb.htm" />
+</HelpKI>
